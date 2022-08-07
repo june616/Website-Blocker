@@ -2,7 +2,7 @@ import time
 from datetime import datetime as dt
 
 hosts_path = r"C:\Windows\System32\drivers\etc\hosts"
-hosts_temp = r"C:\Users\hi\Desktop\Study\Python Mega\Project 3\hosts"
+hosts_temp = r"C:\Users\hi\Desktop\hosts"
 redirect = "127.0.0.1"
 website_list = ["www.facebook.com", "facebook.com"]
 
